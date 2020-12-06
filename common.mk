@@ -13,3 +13,6 @@ include vendor/themes/qsstyles.mk
 include vendor/themes/panelbg.mk
 
 include vendor/themes/gvisual.mk
+
+# Brightness sliders Styles
+include vendor/themes/brightness.mk
